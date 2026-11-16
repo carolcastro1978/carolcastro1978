@@ -2,7 +2,7 @@
 
 ### Senior Adobe Commerce Engineer | Technical Lead
 
-I'm Carolina (Carol) Castro, a hands-on software engineer based in Brasília, Brazil, with **15+ years in PHP development** and **10+ years specializing in Magento / Adobe Commerce**. I build and troubleshoot complex commerce systems, focusing on reliable backend solutions and pragmatic technical decisions.
+I'm Carol Castro, a hands-on software engineer based in Brasília, Brazil, with **15+ years in PHP development** and **10+ years specializing in Magento / Adobe Commerce**. I build and troubleshoot complex commerce systems, focusing on reliable backend solutions and pragmatic technical decisions.
 
 I've worked with distributed international teams on enterprise commerce projects. I enjoy getting to the root of difficult problems, collaborating across disciplines, reviewing code, and helping other developers grow.
 
@@ -47,7 +47,7 @@ I'm expanding my knowledge of **Python, Shopify, React/Next.js, and AI-assisted 
 I'm open to **remote international opportunities** focused on Adobe Commerce engineering and technical leadership.
 
 - **Website:** [carolcastro.me](https://carolcastro.me)
-- **LinkedIn:** [Carolina Castro](https://www.linkedin.com/in/carol-castro/)
+- **LinkedIn:** [Carol Castro](https://www.linkedin.com/in/carol-castro/)
 - **Email:** [carolcastro@gmail.com](mailto:carolcastro@gmail.com)
 
 *Hands-on commerce engineering, technical problem-solving, and technical leadership.*
