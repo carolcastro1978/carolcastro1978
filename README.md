@@ -1,8 +1,4 @@
-<div align="center">
-  <img src="./carolina-avatar.png" alt="Illustrated portrait of Carolina Castro" width="210" />
-</div>
-
-# Hi, I'm Carolina Castro
+# Hi, I'm Carol Castro
 
 ### Senior Adobe Commerce Engineer | Technical Lead
 
